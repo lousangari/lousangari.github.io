@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Présentation
-permalink: /presentation/
+permalink: "/presentation/"
+
 ---
+Restaurant traditionnel.
 
-Restaurant tradionnel.
-
-"Lou Sangari" : epinard sauvage
+"Lou Sangari" : épinard sauvage  
+![](/uploads/epinard.jpg)
 
 Photos
