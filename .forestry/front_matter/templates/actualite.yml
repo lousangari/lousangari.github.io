@@ -11,6 +11,3 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: text
-  name: categories
-  label: categories
