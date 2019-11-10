@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Soirée raclette: 18 janvier"
-date:   2019-11-02 20:00:00 +0100
-categories: jekyll update
----
+title: 'Soirée raclette: 18 janvier'
+date: 2019-11-02T19:00:00.000+00:00
+categories: []
 
+---
 On va faire péter le formage !
