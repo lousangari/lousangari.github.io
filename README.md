@@ -16,3 +16,9 @@ cd www-lousangari/
 vim Gemfile  #and activate "github-pages" (cf comments)
 git init
 ```
+
+## Dev
+```
+bundle exec jekyll serve
+bundle exec jekyll clean
+```
