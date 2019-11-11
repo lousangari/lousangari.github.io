@@ -31,7 +31,8 @@ url: "http://www.lousangari.fr" # the base hostname & protocol for your site, e.
 #github_username:  jekyll
 
 theme: minima
-#plugins:
+plugins:
+  - jekyll-leaflet
 #  - jekyll-feed
 
 # Ordre du menu
