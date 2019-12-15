@@ -8,4 +8,6 @@ Lou Sangari vous invite à découvrir sa **cuisine tradionnelle** (voir le [menu
 Ouvert du **mercredi au dimanche**, midi et soir.  
 Pour réserver, vous pouvez nous contacter au **04 93 02 47 29**.
 
+Le restaurant possède un [page Facebook](https://www.facebook.com/lou.sangari/), n'hésitez pas à la partager :)
+
 ![](/uploads/montage.jpg)
