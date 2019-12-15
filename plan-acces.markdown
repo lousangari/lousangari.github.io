@@ -6,15 +6,13 @@ permalink: /plan-access/
 
 ## La Bolline Valdeblore :
 
-Entre les vallées de la Vésuvie et de la Tinée :
+Le village de La Bolline Valdeblore est situé entre les vallées de la Vésuvie et de la Tinée :
 
-TODO
+* voir le [site de la commune](https://ville-valdeblore.fr/)
+* ou la page [Wikipedia](https://fr.wikipedia.org/wiki/Valdeblore)
+
 
 ## Le restaurant :
+Le restaurant est situé rue de l'église, entre le lavoir et le bar Tabac, à proximité de l'Hotel de Valdeblore (50 m).
 
-Localisation du restaurant dans le village (avec l'hotel, bar/tabac, boulangerie, etc.) :
-{% leaflet_map { "zoom" : 16 } %}
-    {% leaflet_marker { "latitude" : 44.07185,
-                        "longitude" : 7.16812,
-                        "popupContent" : "Lou Sangari" } %}
-{% endleaflet_map %}
+Voir sur [google maps](https://www.google.com/maps/search/44.07185+7.16812/@44.07185,7.1675728,19z).
