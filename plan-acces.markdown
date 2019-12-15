@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Plan d'accès
-permalink: /plan-access/
+permalink: /plan-acces/
 ---
 
 ## La Bolline Valdeblore :
