@@ -18,13 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lou Sangari
+title: Restaurant Lou Sangari
 email: contact@lousangari.fr
 description: >- # description in meta attribute, for google indexation
-  Restaurant traditionnel du pays, situé à La Bolline Valdeblore,
-  vous accueille du mercredi au dimanche, midi et soir, pour déguster
-  une cuisine à mi-chemin entre le méditerranéen et les vallées des
-  Alpes de Sud.
+  Restaurant traditionnel situé à La Bolline Valdeblore, vous accueille
+  du mercredi au dimanche, midi et soir.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.lousangari.fr" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

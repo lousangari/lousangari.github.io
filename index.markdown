@@ -3,11 +3,9 @@ layout: home
 list_title: Actualités
 
 ---
-Restaurant traditionnel du pays, situé à La Bolline Valdeblore,
-vous accueille du mercredi au dimanche, midi et soir, pour déguster
-une cuisine à mi-chemin entre le méditerranéen et les vallées des
-Alpes de Sud.
+Lou Sangari vous invite à découvrir sa **cuisine tradionnelle** (voir le [menu](menu)) à **La Bolline Valdeblore** au milieu des montagnes et paysages grandioses du Parc National du Mercantour (voir le [plan d'accès](plan-acces) du restaurant).
 
-![](/uploads/bolline1.jpg)
+Ouvert du **mercredi au dimanche**, midi et soir.  
+Pour réserver, vous pouvez nous contacter au **04 93 02 47 29**.
 
-![](/uploads/ruine.jpg)
+![](/uploads/montage.jpg)

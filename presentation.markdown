@@ -6,10 +6,12 @@ permalink: "/presentation/"
 ---
 Restaurant traditionnel.
 
-## "Lou Sangari" : épinard sauvage  
+## Lou Sangari
+
+"Lou Sangari" est le nom niçois de l'épinard sauvage :
+
 ![](/uploads/epinard.jpg)  
-![](/uploads/epinard2.jpg)
 
 ## Le restaurant :
 
-![](/uploads/salle1.jpg)
+(A venir, site en construction)
