@@ -17,7 +17,7 @@ Au choix parmis 3 entrées, 3 plats, 3 desserts
 * Noix de St Jacques sauce vin blanc, fondue de chou-rouge
 * Rouelle de chapon farci aux sangari, écrasée de pommes de terre à l’huile d’olive
 * Quelques feuilles de salade et tome de Berthemont
-* Confiture de fruits sec, glace vanille et tuile à l’orange
+* Confiture de fruits secs, glace vanille et tuile à l’orange
 
 # Menu du nouvel an
 
