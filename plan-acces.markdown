@@ -6,7 +6,7 @@ permalink: /plan-acces/
 
 ## La Bolline Valdeblore :
 
-Le village de La Bolline Valdeblore est situé entre les vallées de la Vésuvie et de la Tinée :
+Le village de La Bolline Valdeblore est situé entre les vallées de la Vésubie et de la Tinée :
 
 * voir le [site de la commune](https://ville-valdeblore.fr/)
 * ou la page [Wikipedia](https://fr.wikipedia.org/wiki/Valdeblore)
