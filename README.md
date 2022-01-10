@@ -5,7 +5,8 @@ Ensure Ruby + jekyll + some-deps are installed :
 sudo apt update
 sudo apt install ruby ruby-dev build-essential dh-autoreconf zlib1g-dev
 sudo gem update
-sudo gem install bundler jekyll
+sudo gem install bundler
+sudo gem install jekyll -v '~> 3.8'
 ```
 
 Create project **once** :
@@ -29,4 +30,12 @@ bundle install
 ```
 bundle exec jekyll serve
 bundle exec jekyll clean
+```
+
+Update deps:
+```
+bundle update
+bundle exec jekyll serve
+git diff Gemfile.lock
+git add Gemfile.lock; git ci -m "Update all deps"
 ```
