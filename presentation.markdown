@@ -4,14 +4,30 @@ title: Présentation
 permalink: "/presentation/"
 
 ---
-Restaurant traditionnel.
 
-## Lou Sangari
+![](/assets/img/titre-montagne.jpg)
+
+## Le restaurant
+
+![](/assets/img/restau-montage2.jpg)
+![](/assets/img/restau-montage3.jpg)
+![](/assets/img/restau-montage4.jpg)
+
+
+## Le Sangari
+
+![Photo Epinard sauvage](/assets/img/epinard.jpg){:style="float: right"}
 
 "Lou Sangari" est le nom niçois de l'épinard sauvage :
 
-![](/uploads/epinard.jpg)  
+{:style="clear: right"}
 
-## Le restaurant :
+## Le Mercantour
+![Logo](/assets/img/logo-mercantour.jpg){:style="float: left; width: 25%; max-width: 160px; margin-right: 5%"}
+Le parc national du Mercantour est un des onze parcs nationaux de France. Il est situé sur les départements des Alpes-Maritimes et des Alpes-de-Haute-Provence.  
+Il est plus particulièrement connu pour être l'un des plus sauvages de France, et l'un des plus variés sur le plan des paysages, aux contrastes très marqués : sa situation géographique très particulière, à proximité de la Côte d'Azur, apporte des touches méditerranéennes à ces montagnes alpines. C'est là que le loup a naturellement fait son retour en France en 1992 depuis l'Italie.  
+_(description extraite de Wikipedia)_
 
-(A venir, site en construction)
+Ci-dessous, en randonnée au Millefonts (d'abord le Lac Gros, puis sur le chemin de la descente en direction du sud):
+![Photo Lac Gros](/assets/img/millefonts2.jpg)
+![Photo montagne](/assets/img/millefonts1.jpg)
