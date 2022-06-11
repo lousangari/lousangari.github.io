@@ -1,6 +1,6 @@
 ---
 layout: home
-list_title: Actualités
+list_title: Actualités récentes
 
 ---
 Lou Sangari vous invite à découvrir sa **cuisine tradionnelle** (voir le [menu](menu)) à **La Bolline Valdeblore** au milieu des montagnes et paysages grandioses du Parc National du Mercantour (voir le [plan d'accès](plan-acces) du restaurant).
