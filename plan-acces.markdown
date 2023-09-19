@@ -17,6 +17,6 @@ Le village de La Bolline Valdeblore est situé entre les vallées de la Vésubie
 ![Casseroles](/assets/img/blason-casseroles.jpg){:style="float: left; width: 25%; max-width: 160px; margin-right: 5%"}
 Le restaurant est situé rue de l'église, entre le lavoir et le bar Tabac, à proximité de l'Hotel de Valdeblore (50 m).
 
-Voir sur [google maps](https://www.google.com/maps/search/44.07185+7.16812/@44.07185,7.1675728,19z).
+Voir sur 🗺️ [Google Maps](https://www.google.com/maps/search/44.07185+7.16812/@44.07185,7.1675728,19z).
 
 {:style="clear: left"}
