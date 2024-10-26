@@ -2,15 +2,21 @@
 
 Ensure Ruby + jekyll + some-deps are installed :
 ```
-sudo apt update
-sudo apt install ruby ruby-dev build-essential dh-autoreconf zlib1g-dev
+sudo apt update; sudo apt install ruby ruby-dev build-essential dh-autoreconf zlib1g-dev
+# or:
+brew install ruby
+
+# check that ruby at least 3.x !!
+ruby --version
+
 sudo gem update
 sudo gem install bundler
-sudo gem install jekyll -v '~> 3.8'
 ```
 
 Create project **once** :
 ```
+sudo gem install jekyll -v '~> 3.10'
+
 cd git/
 jekyll new www-lousangari
 cd www-lousangari/
@@ -21,9 +27,9 @@ git init
 Clone on another machine :
 ```
 cd git/
-git clone XXXXX
+git clone git@github.com:lousangari/lousangari.github.io.git
 cd lousangari.github.io/
-bundle install
+(sudo) bundle install
 ```
 
 ## Dev
@@ -34,7 +40,7 @@ bundle exec jekyll clean
 
 Update deps:
 ```
-bundle update
+(sudo) bundle update
 bundle exec jekyll serve
 git diff Gemfile.lock
 git add Gemfile.lock; git ci -m "Update all deps"
