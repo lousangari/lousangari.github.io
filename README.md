@@ -10,6 +10,7 @@ brew install ruby
 # check that ruby at least 3.x !!
 ruby --version
 
+# TODO: check if possible to run without sudo (on a brand-new system)
 sudo gem update
 sudo gem install bundler
 ```
