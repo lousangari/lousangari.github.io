@@ -2,7 +2,8 @@
 
 Ensure Ruby + jekyll + some-deps are installed :
 ```
-sudo apt update; sudo apt install ruby ruby-dev build-essential dh-autoreconf zlib1g-dev
+sudo apt update
+sudo apt install ruby ruby-dev build-essential dh-autoreconf zlib1g-dev libffi-dev libyaml-dev libssl-dev libreadline-dev 
 # or:
 brew install ruby
 
